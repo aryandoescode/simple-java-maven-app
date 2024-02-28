@@ -44,7 +44,7 @@ steps{
                 )],
                 contextPath: 'test',
                 onFailure: 'false',
-                war: '**/*.war'
+                war: '**/*.jar'
         }
     }
 
